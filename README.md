@@ -7,8 +7,12 @@ A centralized explanation of the SKI combinator tools of SKIland.
 The [S, K, I combinator calculus](https://grokipedia.com/page/SKI_combinator_calculus) is a fundamental computing system discovered in the 1920s by Moses Schönfinkel and elaborated by Haskell Curry.  The three rules are:
 
 $$
-I x \equiv x \\
-K x y \equiv x \\
+I x \equiv x
+$$
+$$
+K x y \equiv x
+$$
+$$
 S x y z \equiv (x z)(y z)
 $$
 
