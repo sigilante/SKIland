@@ -55,6 +55,10 @@ This is not efficient!  Each unit wraps the previous numeral in `K (S I (K ·))`
 
 In SKIjack's unary notation for numbers, 2⁶⁴-1 would consume 150 exabytes.  It would take 5,800 years to compute it at 10⁸ contractions a second.
 
+Some other tools I've made include:
+
+* [Song Maps, visualizing Dave Keenan's 1996 notation](https://claude.ai/artifact/DfG2y96ST6aJqY4CuQSFM2) from [“To Dissect a Mockingbird”](https://dkeenan.com/Lambda/index.htm).
+
 ## zkSKI
 
 Zero-knowledge computing with SKI is possible.  By zkSKI I mean two things:
